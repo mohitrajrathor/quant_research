@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 algo_app/
+dist/
